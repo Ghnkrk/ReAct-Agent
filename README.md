@@ -1,4 +1,4 @@
-# Math ReAct Agents
+# Math ReAct Agent
 
 This repository contains a **functional AI agent built from scratch**, without using LangChain or other agent frameworks.  
 The project focuses on implementing a **ReAct-style (Reason + Act) agent loop** using plain Python, explicit control logic, and a lightweight UI.
